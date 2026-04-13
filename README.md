@@ -33,9 +33,15 @@ A data pipeline was designed to:
 
 ---
 
-🏗️ Architecture Diagram
 
-"Data Pipeline" (architecture/pipeline.png)
+## 🏗️ Architecture Diagram
+
+```mermaid
+flowchart LR
+    A[Raw Data<br>raw_sales.csv] --> B[Data Cleaning Script<br>clean_sales.py]
+    B --> C[Clean Data<br>clean_sales.csv]
+    C --> D[Dashboard / Analysis]
+```
 
 ---
 
