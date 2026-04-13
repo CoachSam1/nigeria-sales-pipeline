@@ -116,7 +116,7 @@ nigeria-sales-pipeline/
 
 👤 Author
 
-Samuel
+Maliki Habib Samuel 
 
 ---
 
