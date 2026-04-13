@@ -114,15 +114,6 @@ nigeria-sales-pipeline/
 
 ---
 
-🚀 Future Improvements
-
-- Integrate with a database (PostgreSQL/MySQL)
-- Automate pipeline execution
-- Add dashboard for visualization
-- Scale pipeline for larger datasets
-
----
-
 👤 Author
 
 Samuel
